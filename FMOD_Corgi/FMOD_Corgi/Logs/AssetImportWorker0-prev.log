@@ -1,0 +1,495 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.1645; Version 2009; 64bit' Language: 'en' Physical Memory: 24534 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+F:\Unity\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/Personal Unity Projects/CorgiEngine/FMOD_Corgi-Sandbox/FMOD_Corgi
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56429
+Successfully changed project path to: F:/Personal Unity Projects/CorgiEngine/FMOD_Corgi-Sandbox/FMOD_Corgi
+F:/Personal Unity Projects/CorgiEngine/FMOD_Corgi-Sandbox/FMOD_Corgi
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 174.35 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path F:/Unity/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Personal Unity Projects/CorgiEngine/FMOD_Corgi-Sandbox/FMOD_Corgi/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   30.0.15.1215
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Initialize mono
+Mono path[0] = 'F:/Unity/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'F:/Unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'F:/Unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56036
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: F:/Unity/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002082 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 145.08 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.311 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.011185 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.978 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 3.45 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2916 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 196.6 MB.
+System memory in use after: 196.8 MB.
+
+Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 3306.
+Total: 3.607200 ms (FindLiveObjects: 0.564700 ms CreateObjectMapping: 0.153000 ms MarkObjects: 2.754300 ms  DeleteObjects: 0.133600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/CorgiEngine/Demos/LevelSelection/LevelSelection.unity
+  artifactKey: Guid(38b3bbb0fec788241870d54b46b03e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/LevelSelection/LevelSelection.unity using Guid(38b3bbb0fec788241870d54b46b03e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2879c9dba8a9da2b6efd0c8ffd1841c9') in 0.046986 seconds
+  Import took 0.056443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/CorgiEngine/Demos/LevelSelection/LevelSelectionMap.unity
+  artifactKey: Guid(0bba9bfc439ed1f458ec61e4c0008ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/LevelSelection/LevelSelectionMap.unity using Guid(0bba9bfc439ed1f458ec61e4c0008ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c2182d9350c46b00fc5e8b18a360172') in 0.019945 seconds
+  Import took 0.027007 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011985 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.01 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.712 seconds
+Platform modules already initialized, skipping
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Refreshing native plugins compatible for Editor in 2.52 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 190.6 MB.
+System memory in use after: 190.8 MB.
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 3308.
+Total: 5.021600 ms (FindLiveObjects: 0.636900 ms CreateObjectMapping: 0.158800 ms MarkObjects: 4.171300 ms  DeleteObjects: 0.053000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 926.197228 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd75d0f66b20eb0bb111c022045dc6f20') in 0.029573 seconds
+  Import took 0.037251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.834918 seconds.
+  path: Assets/CorgiEngine/Demos/LevelSelection/Sprites/level-map-automovement.png
+  artifactKey: Guid(a3181e25566ba064e9afa88e32eea89c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/LevelSelection/Sprites/level-map-automovement.png using Guid(a3181e25566ba064e9afa88e32eea89c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8258fc2993e64e586d77feda481848a6') in 0.165012 seconds
+  Import took 0.171691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/CorgiEngine/Demos/LevelSelection/Sprites/level-map-dynamicgravity.png
+  artifactKey: Guid(5afb7f9fab37b3d48af2941e7e8e96e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/LevelSelection/Sprites/level-map-dynamicgravity.png using Guid(5afb7f9fab37b3d48af2941e7e8e96e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed976c095e1b427ef85550f090d77aeb') in 0.024634 seconds
+  Import took 0.030323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/CorgiEngine/Demos/LevelSelection/Sprites/level-map-corgi3d-x-the-hunt.png
+  artifactKey: Guid(c7f0aa3b14872e24990380891ffab87f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/LevelSelection/Sprites/level-map-corgi3d-x-the-hunt.png using Guid(c7f0aa3b14872e24990380891ffab87f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75946d44ea2d1be926ead1319151401b') in 0.026085 seconds
+  Import took 0.032350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000538 seconds.
+  path: Assets/CorgiEngine/Demos/LevelSelection/Sprites/level-map-brobro.png
+  artifactKey: Guid(7ab6aa950389007438dbba35ac889390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/LevelSelection/Sprites/level-map-brobro.png using Guid(7ab6aa950389007438dbba35ac889390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb2b9a11da02139b451827652d8c568b') in 0.024165 seconds
+  Import took 0.031068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/CorgiEngine/Demos/LevelSelection/Sprites/level-map-corgi3d.png
+  artifactKey: Guid(a39acb259445ae0438ff0b1b07477662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/LevelSelection/Sprites/level-map-corgi3d.png using Guid(a39acb259445ae0438ff0b1b07477662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95005c79edbfefcee4e4c559c010fc95') in 0.019401 seconds
+  Import took 0.025692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.903307 seconds.
+  path: Assets/CorgiEngine/Demos/Corgi3D/Corgi3D.unity
+  artifactKey: Guid(21235c11eb96a4cce9524e313642ab64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Corgi3D/Corgi3D.unity using Guid(21235c11eb96a4cce9524e313642ab64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15ea647f41de84d24ce843d332f3c451') in 0.013045 seconds
+  Import took 0.019826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000700 seconds.
+  path: Assets/CorgiEngine/Demos/Corgi3D/Corgi3D.unity
+  artifactKey: Guid(21235c11eb96a4cce9524e313642ab64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Corgi3D/Corgi3D.unity using Guid(21235c11eb96a4cce9524e313642ab64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15ea647f41de84d24ce843d332f3c451') in 0.004780 seconds
+  Import took 0.011034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 122.428639 seconds.
+  path: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Lut3DBaker.compute
+  artifactKey: Guid(42496b74c071f5749950ca1abe33e945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Lut3DBaker.compute using Guid(42496b74c071f5749950ca1abe33e945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674d13dcb8e9ed546aba5f84d7d2b67e') in 0.021789 seconds
+  Import took 0.028908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVODownsample1.compute
+  artifactKey: Guid(4c63bc487e6c29a4a99f85a6c47b292b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVODownsample1.compute using Guid(4c63bc487e6c29a4a99f85a6c47b292b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a2d2acd3fb210c587cd9bbed4f3175d') in 0.011193 seconds
+  Import took 0.017116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Lut3DBaker.compute
+  artifactKey: Guid(42496b74c071f5749950ca1abe33e945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Lut3DBaker.compute using Guid(42496b74c071f5749950ca1abe33e945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674d13dcb8e9ed546aba5f84d7d2b67e') in 0.005560 seconds
+  Import took 0.012313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030367 seconds.
+  path: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVODownsample1.compute
+  artifactKey: Guid(4c63bc487e6c29a4a99f85a6c47b292b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVODownsample1.compute using Guid(4c63bc487e6c29a4a99f85a6c47b292b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a2d2acd3fb210c587cd9bbed4f3175d') in 0.005359 seconds
+  Import took 0.011551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 124.715788 seconds.
+  path: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/GaussianDownsample.compute
+  artifactKey: Guid(6dba4103d23a7904fbc49099355aff3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/GaussianDownsample.compute using Guid(6dba4103d23a7904fbc49099355aff3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8267c779397f067b0fb6473f31d4d119') in 0.013449 seconds
+  Import took 0.022093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.503649 seconds.
+  path: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVODownsample2.compute
+  artifactKey: Guid(e4d3e4779e48a374f91d48d4c0aedb7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVODownsample2.compute using Guid(e4d3e4779e48a374f91d48d4c0aedb7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3caed5f5c12d3ef22de6f811052b2747') in 0.010680 seconds
+  Import took 0.017307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.079057 seconds.
+  path: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVORender.compute
+  artifactKey: Guid(34a460e8a2e66c243a9c12024e5a798d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVORender.compute using Guid(34a460e8a2e66c243a9c12024e5a798d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad2062a20bc071959e0c0617bb427d2e') in 0.010110 seconds
+  Import took 0.017224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006138 seconds.
+  path: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVORender.compute
+  artifactKey: Guid(34a460e8a2e66c243a9c12024e5a798d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVORender.compute using Guid(34a460e8a2e66c243a9c12024e5a798d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad2062a20bc071959e0c0617bb427d2e') in 0.005374 seconds
+  Import took 0.011517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046639 seconds.
+  path: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVOUpsample.compute
+  artifactKey: Guid(600d6212b59bb40409d19d750b5fd1e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVOUpsample.compute using Guid(600d6212b59bb40409d19d750b5fd1e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a40b7d58d3c0f2191ae6f099095db1e') in 0.012827 seconds
+  Import took 0.018915 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011890 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.09 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.678 seconds
+Platform modules already initialized, skipping
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Refreshing native plugins compatible for Editor in 2.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.7 MB.
+System memory in use after: 193.9 MB.
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 3316.
+Total: 5.097100 ms (FindLiveObjects: 1.471000 ms CreateObjectMapping: 0.211200 ms MarkObjects: 3.369400 ms  DeleteObjects: 0.044000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.881620 seconds.
+  path: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVO.shader
+  artifactKey: Guid(67f9497810829eb4791ec19e95781e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVO.shader using Guid(67f9497810829eb4791ec19e95781e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c837ff2d84f2ae194a0222031ccce6d0') in 0.028385 seconds
+  Import took 0.034822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.733562 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(c78c263c437a0fe43a762caa9bdd761b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(c78c263c437a0fe43a762caa9bdd761b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6156a4a782eca1001b7b7ba1894da258') in 0.009138 seconds
+  Import took 0.015858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.617049 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1741f0db1f3b0b005537099ed96fc354') in 0.005224 seconds
+  Import took 0.012204 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012832 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.04 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.691 seconds
+Platform modules already initialized, skipping
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Refreshing native plugins compatible for Editor in 2.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.7 MB.
+System memory in use after: 194.0 MB.
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 3318.
+Total: 5.224700 ms (FindLiveObjects: 0.607800 ms CreateObjectMapping: 0.174800 ms MarkObjects: 4.378000 ms  DeleteObjects: 0.062300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010427 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.97 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.743 seconds
+Platform modules already initialized, skipping
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Refreshing native plugins compatible for Editor in 2.04 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.8 MB.
+System memory in use after: 194.0 MB.
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 3320.
+Total: 3.583800 ms (FindLiveObjects: 0.583700 ms CreateObjectMapping: 0.151500 ms MarkObjects: 2.763800 ms  DeleteObjects: 0.082100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017850 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.05 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.880 seconds
+Platform modules already initialized, skipping
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Refreshing native plugins compatible for Editor in 2.07 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.8 MB.
+System memory in use after: 194.0 MB.
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 3322.
+Total: 4.749100 ms (FindLiveObjects: 1.417400 ms CreateObjectMapping: 0.198800 ms MarkObjects: 3.079800 ms  DeleteObjects: 0.051400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 609.696492 seconds.
+  path: Assets/MMData
+  artifactKey: Guid(c07312d617c8abd4694d477d6a75f8ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MMData using Guid(c07312d617c8abd4694d477d6a75f8ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e1affbd10d4177c9e58b2b8156a16c7') in 0.018860 seconds
+  Import took 0.026735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.934087 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e7062a9ec85a16331eb7fdb7c7cd641') in 0.011622 seconds
+  Import took 0.018686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 135.628141 seconds.
+  path: Assets/MaterialsImages
+  artifactKey: Guid(479475ef05e250b4387c52a2ea6cec7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaterialsImages using Guid(479475ef05e250b4387c52a2ea6cec7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd6429fb6330b43455ca037d11cd03e6') in 0.014276 seconds
+  Import took 0.022456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.903696 seconds.
+  path: Assets/MaterialsImages/Puddin.jpg
+  artifactKey: Guid(5f54093afec02134fb37ea3a7d72baff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaterialsImages/Puddin.jpg using Guid(5f54093afec02134fb37ea3a7d72baff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b636207415dec7fd3ad764e2386bd711') in 0.081829 seconds
+  Import took 0.088450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.609615 seconds.
+  path: Assets/MaterialsImages/Capture.PNG
+  artifactKey: Guid(2032739416ea7a142af3f9f802119ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaterialsImages/Capture.PNG using Guid(2032739416ea7a142af3f9f802119ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '797835bb833bc982e053a2cabe84e4e8') in 0.034974 seconds
+  Import took 0.042023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.449000 seconds.
+  path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMAchievements/Sprites/AchievementBackground.png
+  artifactKey: Guid(cecdbf60b0c9d47c9a26b99a41425de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMAchievements/Sprites/AchievementBackground.png using Guid(cecdbf60b0c9d47c9a26b99a41425de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ddee6a48980c99b8238ee77dbd90db') in 0.024486 seconds
+  Import took 0.032061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMAchievements/Sprites/AchievementBackgroundUnlocked.png
+  artifactKey: Guid(c379ef0fb8ae144a5b0a0b1d0c02d125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMAchievements/Sprites/AchievementBackgroundUnlocked.png using Guid(c379ef0fb8ae144a5b0a0b1d0c02d125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c883465597a67c4049aac44ac8bda9') in 0.022609 seconds
+  Import took 0.028600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/CorgiEngine/Common/Sprites/AchievementIcons.png
+  artifactKey: Guid(fa6d364a5a0575245859952062aea14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Common/Sprites/AchievementIcons.png using Guid(fa6d364a5a0575245859952062aea14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b41b149e07c67c96420759cd58916969') in 0.069164 seconds
+  Import took 0.075271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMAchievements/Sprites/AchievementIcon.png
+  artifactKey: Guid(16a86a7f581fc4dfb953e0df8ad3ecac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMAchievements/Sprites/AchievementIcon.png using Guid(16a86a7f581fc4dfb953e0df8ad3ecac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dee56ce2c0368d289cb330df3d82d0a2') in 0.024482 seconds
+  Import took 0.031495 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010566 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.21 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.764 seconds
+Platform modules already initialized, skipping
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Refreshing native plugins compatible for Editor in 2.08 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.8 MB.
+System memory in use after: 194.0 MB.
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 3333.
+Total: 3.543800 ms (FindLiveObjects: 0.583400 ms CreateObjectMapping: 0.162500 ms MarkObjects: 2.751000 ms  DeleteObjects: 0.044400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011570 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.785 seconds
+Platform modules already initialized, skipping
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Refreshing native plugins compatible for Editor in 2.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.8 MB.
+System memory in use after: 194.0 MB.
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 3335.
+Total: 3.510800 ms (FindLiveObjects: 0.530300 ms CreateObjectMapping: 0.150500 ms MarkObjects: 2.778300 ms  DeleteObjects: 0.050400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 837.631413 seconds.
+  path: Assets/CorgiEngine/Common/Scripts/Agents/CharacterAbilities/CharacterAbility.cs
+  artifactKey: Guid(d1133202ebf6d40d897f057171e4c80e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Common/Scripts/Agents/CharacterAbilities/CharacterAbility.cs using Guid(d1133202ebf6d40d897f057171e4c80e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df112d0369545db2f421794a0006ab69') in 0.023619 seconds
+  Import took 0.031336 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.019937 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.61 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.186 seconds
+Platform modules already initialized, skipping
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Refreshing native plugins compatible for Editor in 2.05 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.8 MB.
+System memory in use after: 194.1 MB.
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 3337.
+Total: 4.419900 ms (FindLiveObjects: 0.676000 ms CreateObjectMapping: 0.169700 ms MarkObjects: 3.494000 ms  DeleteObjects: 0.078000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
